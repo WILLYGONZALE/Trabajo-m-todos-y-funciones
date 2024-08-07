@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\polimorfismo de williansteban\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3BAC16-6358-4887-8A0F-B2473E4DC26F}|polimorfismo de williansteban\\polimorfismo de williansteban.csproj|c:\\users\\usuario\\source\\repos\\polimorfismo de williansteban\\polimorfismo de williansteban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3BAC16-6358-4887-8A0F-B2473E4DC26F}|polimorfismo de williansteban\\polimorfismo de williansteban.csproj|solutionrelative:polimorfismo de williansteban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\polimorfismo de williansteban\\polimorfismo de williansteban\\Program.cs",
+              "RelativeDocumentMoniker": "polimorfismo de williansteban\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\polimorfismo de williansteban\\polimorfismo de williansteban\\Program.cs",
+              "RelativeToolTip": "polimorfismo de williansteban\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA8wEEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:11:56.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

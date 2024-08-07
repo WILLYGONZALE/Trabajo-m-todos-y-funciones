@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\polimorfismo de williansteban\polimorfismo de williansteban\bin\Debug\net8.0\polimorfismo de williansteban.exe
+C:\Users\Usuario\source\repos\polimorfismo de williansteban\polimorfismo de williansteban\bin\Debug\net8.0\polimorfismo de williansteban.deps.json
+C:\Users\Usuario\source\repos\polimorfismo de williansteban\polimorfismo de williansteban\bin\Debug\net8.0\polimorfismo de williansteban.runtimeconfig.json
+C:\Users\Usuario\source\repos\polimorfismo de williansteban\polimorfismo de williansteban\bin\Debug\net8.0\polimorfismo de williansteban.dll
+C:\Users\Usuario\source\repos\polimorfismo de williansteban\polimorfismo de williansteban\bin\Debug\net8.0\polimorfismo de williansteban.pdb
+C:\Users\Usuario\source\repos\polimorfismo de williansteban\polimorfismo de williansteban\obj\Debug\net8.0\polimorfismo de williansteban.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\polimorfismo de williansteban\polimorfismo de williansteban\obj\Debug\net8.0\polimorfismo de williansteban.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\polimorfismo de williansteban\polimorfismo de williansteban\obj\Debug\net8.0\polimorfismo de williansteban.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\polimorfismo de williansteban\polimorfismo de williansteban\obj\Debug\net8.0\polimorfismo de williansteban.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\polimorfismo de williansteban\polimorfismo de williansteban\obj\Debug\net8.0\polimorfismo de williansteban.dll
+C:\Users\Usuario\source\repos\polimorfismo de williansteban\polimorfismo de williansteban\obj\Debug\net8.0\refint\polimorfismo de williansteban.dll
+C:\Users\Usuario\source\repos\polimorfismo de williansteban\polimorfismo de williansteban\obj\Debug\net8.0\polimorfismo de williansteban.pdb
+C:\Users\Usuario\source\repos\polimorfismo de williansteban\polimorfismo de williansteban\obj\Debug\net8.0\polimorfismo de williansteban.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\polimorfismo de williansteban\polimorfismo de williansteban\obj\Debug\net8.0\ref\polimorfismo de williansteban.dll
