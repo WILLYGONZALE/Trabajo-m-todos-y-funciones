@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\solid de willian steban\solid de willian steban\obj\Debug\net8.0\solid de willian steban.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\solid de willian steban\solid de willian steban\obj\Debug\net8.0\solid de willian steban.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\solid de willian steban\solid de willian steban\obj\Debug\net8.0\solid de willian steban.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\solid de willian steban\solid de willian steban\obj\Debug\net8.0\solid de willian steban.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\solid de willian steban\solid de willian steban\bin\Debug\net8.0\solid de willian steban.exe
+C:\Users\Usuario\source\repos\solid de willian steban\solid de willian steban\bin\Debug\net8.0\solid de willian steban.deps.json
+C:\Users\Usuario\source\repos\solid de willian steban\solid de willian steban\bin\Debug\net8.0\solid de willian steban.runtimeconfig.json
+C:\Users\Usuario\source\repos\solid de willian steban\solid de willian steban\bin\Debug\net8.0\solid de willian steban.dll
+C:\Users\Usuario\source\repos\solid de willian steban\solid de willian steban\bin\Debug\net8.0\solid de willian steban.pdb
+C:\Users\Usuario\source\repos\solid de willian steban\solid de willian steban\obj\Debug\net8.0\solid de willian steban.dll
+C:\Users\Usuario\source\repos\solid de willian steban\solid de willian steban\obj\Debug\net8.0\refint\solid de willian steban.dll
+C:\Users\Usuario\source\repos\solid de willian steban\solid de willian steban\obj\Debug\net8.0\solid de willian steban.pdb
+C:\Users\Usuario\source\repos\solid de willian steban\solid de willian steban\obj\Debug\net8.0\solid de willian steban.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\solid de willian steban\solid de willian steban\obj\Debug\net8.0\ref\solid de willian steban.dll
