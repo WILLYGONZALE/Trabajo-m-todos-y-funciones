@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Abstraccion y herencia\Abstraccion y herencia\bin\Debug\net8.0\Abstraccion y herencia.exe
+C:\Users\Usuario\source\repos\Abstraccion y herencia\Abstraccion y herencia\bin\Debug\net8.0\Abstraccion y herencia.deps.json
+C:\Users\Usuario\source\repos\Abstraccion y herencia\Abstraccion y herencia\bin\Debug\net8.0\Abstraccion y herencia.runtimeconfig.json
+C:\Users\Usuario\source\repos\Abstraccion y herencia\Abstraccion y herencia\bin\Debug\net8.0\Abstraccion y herencia.dll
+C:\Users\Usuario\source\repos\Abstraccion y herencia\Abstraccion y herencia\bin\Debug\net8.0\Abstraccion y herencia.pdb
+C:\Users\Usuario\source\repos\Abstraccion y herencia\Abstraccion y herencia\obj\Debug\net8.0\Abstraccion y herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Abstraccion y herencia\Abstraccion y herencia\obj\Debug\net8.0\Abstraccion y herencia.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Abstraccion y herencia\Abstraccion y herencia\obj\Debug\net8.0\Abstraccion y herencia.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Abstraccion y herencia\Abstraccion y herencia\obj\Debug\net8.0\Abstraccion y herencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Abstraccion y herencia\Abstraccion y herencia\obj\Debug\net8.0\Abstraccion y herencia.dll
+C:\Users\Usuario\source\repos\Abstraccion y herencia\Abstraccion y herencia\obj\Debug\net8.0\refint\Abstraccion y herencia.dll
+C:\Users\Usuario\source\repos\Abstraccion y herencia\Abstraccion y herencia\obj\Debug\net8.0\Abstraccion y herencia.pdb
+C:\Users\Usuario\source\repos\Abstraccion y herencia\Abstraccion y herencia\obj\Debug\net8.0\Abstraccion y herencia.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Abstraccion y herencia\Abstraccion y herencia\obj\Debug\net8.0\ref\Abstraccion y herencia.dll

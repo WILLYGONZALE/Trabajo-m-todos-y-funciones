@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\get and set willian steabn gonzalez\get and set willian steabn gonzalez\bin\Debug\net8.0\get and set willian steabn gonzalez.exe
+C:\Users\Usuario\source\repos\get and set willian steabn gonzalez\get and set willian steabn gonzalez\bin\Debug\net8.0\get and set willian steabn gonzalez.deps.json
+C:\Users\Usuario\source\repos\get and set willian steabn gonzalez\get and set willian steabn gonzalez\bin\Debug\net8.0\get and set willian steabn gonzalez.runtimeconfig.json
+C:\Users\Usuario\source\repos\get and set willian steabn gonzalez\get and set willian steabn gonzalez\bin\Debug\net8.0\get and set willian steabn gonzalez.dll
+C:\Users\Usuario\source\repos\get and set willian steabn gonzalez\get and set willian steabn gonzalez\bin\Debug\net8.0\get and set willian steabn gonzalez.pdb
+C:\Users\Usuario\source\repos\get and set willian steabn gonzalez\get and set willian steabn gonzalez\obj\Debug\net8.0\get and set willian steabn gonzalez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\get and set willian steabn gonzalez\get and set willian steabn gonzalez\obj\Debug\net8.0\get and set willian steabn gonzalez.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\get and set willian steabn gonzalez\get and set willian steabn gonzalez\obj\Debug\net8.0\get and set willian steabn gonzalez.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\get and set willian steabn gonzalez\get and set willian steabn gonzalez\obj\Debug\net8.0\get and set willian steabn gonzalez.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\get and set willian steabn gonzalez\get and set willian steabn gonzalez\obj\Debug\net8.0\get and set willian steabn gonzalez.dll
+C:\Users\Usuario\source\repos\get and set willian steabn gonzalez\get and set willian steabn gonzalez\obj\Debug\net8.0\refint\get and set willian steabn gonzalez.dll
+C:\Users\Usuario\source\repos\get and set willian steabn gonzalez\get and set willian steabn gonzalez\obj\Debug\net8.0\get and set willian steabn gonzalez.pdb
+C:\Users\Usuario\source\repos\get and set willian steabn gonzalez\get and set willian steabn gonzalez\obj\Debug\net8.0\get and set willian steabn gonzalez.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\get and set willian steabn gonzalez\get and set willian steabn gonzalez\obj\Debug\net8.0\ref\get and set willian steabn gonzalez.dll
